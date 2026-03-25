@@ -29,6 +29,9 @@ pip install -r requirements.txt
 ```
 
 ## Run Experiments
-
+```bash
+conda activate layoutad
+python main.py
+```
 
 ## Reference
