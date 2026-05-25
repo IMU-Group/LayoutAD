@@ -6,7 +6,7 @@ LayoutAD: Exploring Semantic-Geometric Misalignment Reasoning for Scene Layout A
 
 [[`Paper`](https://michale-z.github.io/LayoutAD/static/pdfs/paper.pdf)] [[`Video`](https://www.youtube.com/watch?v=6WcVZZFlwOE)] [[`Project`](https://michale-z.github.io/LayoutAD/)] 
 
-![![title]](imgs/frame_02.png?raw=true)
+![![title]](imgs/net_02.jpg?raw=true)
 
 ## Installation
 We suggest users to use the conda for creating new python environment.
