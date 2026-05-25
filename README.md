@@ -4,8 +4,9 @@ Official implementation of **LayoutAD**, from the following paper:
 
 LayoutAD: Exploring Semantic-Geometric Misalignment Reasoning for Scene Layout Anomaly Detection, CVPR 2026
 
-## Dataset
-You can download our dataset at [[`Google Drive`](https://drive.google.com/file/d/1-YwE7tjcVjeM-qJ45E450mWq26e9wNct/view?usp=drive_link)]
+[[`Paper`](https://michale-z.github.io/LayoutAD/static/pdfs/paper.pdf)] [[`Video`](https://www.youtube.com/watch?v=6WcVZZFlwOE)] [[`Project`](https://michale-z.github.io/LayoutAD/)] 
+
+![![title]](imgs/frame_02.png?raw=true)
 
 ## Installation
 We suggest users to use the conda for creating new python environment.
@@ -34,4 +35,4 @@ conda activate layoutad
 python main.py
 ```
 
-## Reference
+<!-- ## Reference -->
